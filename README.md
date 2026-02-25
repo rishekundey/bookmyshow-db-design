@@ -231,8 +231,8 @@ All functional dependencies are handled by:
 
 2. Run files in order:
    - schema.sql
-   - sample_data.sql
-   - queries.sql
+   - P_1.sql
+   - P_2.sql
 
 ---
 
@@ -242,8 +242,8 @@ All functional dependencies are handled by:
 bookmyshow-db-design/
 │
 ├── schema.sql
-├── sample_data.sql
-├── queries.sql
+├── P_1.sql
+├── P_2.sql
 ├── er_diagram.png
 └── README.md
 ```
